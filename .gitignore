@@ -1,0 +1,18 @@
+
+# Created by https://www.gitignore.io/api/eto,meteorjs
+
+#!! ERROR: eto is undefined. Use list command to see defined gitignore types !!#
+
+### MeteorJS ###
+# default meteor build and local packages
+.meteor/local
+
+# meteor settings file
+settings.json
+
+# meteor build output files
+*.tar.gz
+
+# general swp files from vim
+*.swp
+
